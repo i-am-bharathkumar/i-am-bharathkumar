@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Non - Veg store**
 
-- 🌱 I’m currently learning **Angular,Dijango,Node.js**
+- 🌱 I’m currently learning **MongoDB,Spring Boot,Node.js**
 
-- 💬 Ask me about **react ,html ,css ,java ,Javascript**
+- 💬 Ask me about **react ,html ,css ,java ,Javascript, SQL**
 
 - 📫 How to reach me **myself.bharathkumar@gmail.com**
 
